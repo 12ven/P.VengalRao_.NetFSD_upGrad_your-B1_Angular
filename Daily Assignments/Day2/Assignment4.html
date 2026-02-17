@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel & Tourism Booking Platform</title>
+</head>
+<body>
+    <header>
+        <h1>Travel & Tourism Booking Platform</h1>
+        <p>Plan your next adventure with us!</p>
+    </header>
+
+    <!-- Promotional Video -->
+    <section id="promo">
+        <h2>Promotional Video</h2>
+        <video controls width="600">
+        <source src="intro.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+    </section>
+
+    <!-- Background Audio -->
+    <section id="theme-audio">
+        <h2>Travel Theme Audio</h2>
+        <audio autoplay loop controls>
+        <source src="a1.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+        </audio>
+    </section>
+
+    <!-- Booking Form -->
+  <main>
+    <section id="booking">
+      <h2>Book Your Trip</h2>
+      <form action="" method="post">
+
+        <!-- Source City -->
+        <label for="source">Source City:</label>
+        <input list="cities" id="source" name="" required>
+        <datalist id="cities">
+          <option value="Hyderabad"></option>
+          <option value="Delhi"></option>
+          <option value="Mumbai"></option>
+          <option value="Chennai"></option>
+          <option value="Bangalore"></option>
+        </datalist>
+        <br><br>
+
+        <!-- Destination City -->
+        <label for="destination">Destination City:</label>
+        <input list="cities" id="destination" name="" required>
+        <br><br>
+
+        <!-- Travel Date -->
+        <label for="travel-date">Travel Date:</label>
+        <input type="date" id="travel-date" name="" required>
+        <br><br>
+
+        <!-- Return Date -->
+        <label for="return-date">Return Date:</label>
+        <input type="date" id="return-date" name="" required>
+        <br><br>
+
+        <!-- Travel Class -->
+        <label for="class">Travel Class:</label>
+        <input list="class" name="travel_class" required>
+        <datalist id="class">
+          <option value="Economy"></option>
+          <option value="Business"></option>
+          <option value="First Class"></option>
+        </datalist>
+        <br><br>
+
+         <label for="airline">Preferred Airline:</label>
+        <input list="airlines" id="airline" name="" placeholder="Enter or select airline">
+        <datalist id="airlines">
+          <option value="Air India"></option>
+          <option value="IndiGo"></option>
+          <option value="SpiceJet"></option>
+          <option value="Vistara"></option>
+          <option value="GoAir"></option>
+        </datalist>
+        <br><br>
+
+        <!-- Number of Passengers -->
+        <label for="passengers">Number of Passengers:</label>
+        <input type="number" id="passengers" name="" min="1" max="10" required>
+        <br><br>
+
+        <!-- Meal Preference -->
+        <label for="meal">Meal Preference (Color Tag):</label>
+        <input type="color" id="meal" name="">
+        <br><br>
+
+        <!-- Special Assistance Notes -->
+        <label for="notes">Special Assistance Notes:</label>
+        <textarea id="notes" name="" placeholder="Enter text"></textarea>
+        <br><br>
+
+        <button type="submit">Confirm Booking</button>
+      </form>
+    </section>
+  </main>
+
+
+
+</body>
+</html>

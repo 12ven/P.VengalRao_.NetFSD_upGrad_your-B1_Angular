@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Learning Course Registration Portal</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the E-Learning Course Registration Portal</h1>   
+        <p>Register now to enhance your skills and earn a professional certification.</p>
+    </header>
+
+    <main>
+
+        <section id="intro">
+            <h2>Introduction video</h2>
+            <video controls width="600">
+                <source src="intro.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </section>
+        <section id="registratio">
+            <h2>Course Registration Form</h2>
+            <form action="" required>
+
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="" required>
+                <br><br>    
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="" required>        
+                <br><br>
+                <label for="course">Select course:</label>
+                <input list="course" id="course" name="" required>
+                <datalist id="course">
+                    <option value="Web Development"></option>
+                    <option value="Data Science"></option>
+                    <option value="Cybersecurity"></option>
+                    <option value="Cloud Computing"></option>
+                </datalist>
+                <br><br>
+
+                <label for="batch">Batch Month:</label>
+                <input type="month" id="batch" required>   
+                <br><br>
+                <label for="timeing">Session timings:</label>
+                <input type="time" id="timing" required>
+                <br><br>
+
+                <label for="skill">Rate Your Skill Level:</label>
+                <input type="range" id="skill" name="" min="1" max="10" value="5">
+                <br><br>
+
+                <label for="progress">Enrollment Progress:</label>
+                <progress id="progress" value="50" max="100">50%</progress>
+                <br><br>
+
+                <input type="submit" value="Enroll Now">
+
+
+
+            </form>
+
+
+
+
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 E-Learning Platform. All rights reserved.</p>
+    </footer>
+
+    
+</body>
+</html>

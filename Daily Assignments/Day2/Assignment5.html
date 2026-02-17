@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Banking Account Opening</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Digital Banking Account Opening</h1>
+        <p>Open your account online in just a few simple steps.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Enter details</h2>
+            <form action="" required>
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="" required>
+                <br><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="" required>
+                <br><br>
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="" required>
+                <br><br>
+                <label for="pan">PAN Number:</label>
+                <input type="text" id="pan" name=""  pattern="[A-Z]{5}[0-9]{4}[A-Z]{1}" required>
+                <br><br>
+                <label for="ifsc">IFSC Code:</label>
+                <input type="text" id="ifsc" name="" pattern="[A-Z]{4}0[0-9]{7}" title="IFSC must follow 4 letters + 7 digits format." required>
+                <br><br>
+                <label for="account">Account Type:</label>
+                <input list="account" id="accounts" name="" required>
+                <datalist id="account">
+                    <option value="">Select Account Type</option>
+                    <option value="savings"></option>
+                    <option value="current"></option>
+                </datalist>
+                <br><br>
+                <label for="dob">Date of Birth:</label>
+
+                <input type="date" id="dob" name="" required>
+                <br><br>
+
+                <label for="income">Monthly Income:</label>
+                <input type="number" id="income" name="" step="1000" required>
+                <br><br>
+                <label for="file">Upload ID proof</label>
+                <input type="file" id="file" name="" accept=".pdf,.jpg,.jpeg,.png" required>
+                <br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </section>
+    </main>
+</body>
+</html>
