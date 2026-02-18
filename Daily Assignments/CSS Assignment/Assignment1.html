@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Website - "Medicare Clinic"</title>
+    <link rel="stylesheet" href="Assignment1.css">
+
+    <style>
+        #doctor {
+            display: flex;              
+            justify-content: space-around; 
+            background-color: #e6f2ff;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        #doctor h3 {
+            color: #004080;
+        }
+
+        .doctorcard {
+            background-color: white;
+            border: 1px solid #004080;
+            border-radius: 8px;
+            padding: 15px;
+            width: 200px;               
+            text-align: center;
+        }
+
+        .doctorcard p {
+            font-size: 14px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Medicare Clinic</h1>
+        <nav>
+            <a href="#banner">Banner</a>
+            <a href="#service">Services</a>
+            <a href="#doctor">docter</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        
+        <div style="background-color:red; color:white; padding:10px; text-align:center;">
+        🚨 Emergency Alert: COVID-19 precautions in place!
+        </div>
+
+        
+        <section class="banner" id="banner">
+            <h2>Welcome to MediCare Clinic</h2>
+            <p>Your health, our priority.</p>
+        </section>
+
+        <section class="service" id="service">
+            <h3>Our Services</h3>
+            <div class="service-card">
+                <h3>General Checkup</h3>
+                <p>Routine health checkup</p>
+            </div>
+            <div class="service-card">
+                <h3>Pediatrics</h3>
+                <p>Child healthcare services</p>        
+            </div>
+            <div class="service-card">  
+                <h3>Cardiology</h3>
+                <p>Heart health services</p>        
+            </div>
+
+        </section>
+
+        <section>
+            <h3>Our Doctors</h3>
+            <div class="doctor" id="doctor">
+            <div class="doctorcard">
+                <h3>Dr. John</h3>
+                <p>General Physician</p>
+            </div>
+            <div class="doctorcard">
+                <h3>Dr. Smith</h3>
+                <p>Pediatrician</p>
+            </div>
+            <div class="doctorcard">
+                <h3>Dr. Davis</h3>
+                <p>Cardiologist</p>
+            </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <form>
+                <label>Name:</label>
+                <input type="text" name="name"><br><br>
+                <label>Email:</label>
+                <input type="email" name="email"><br><br>
+                <label>Message:</label>
+                <textarea></textarea><br><br>
+                <button type="submit">Send</button>
+            </form>
+  </section>
+
+  
+
+    </main>
+
+
+    <footer>
+        <p>&copy; 2026 MediCare Clinic. All rights reserved.</p>
+  </footer>
+</body>
+</html>
