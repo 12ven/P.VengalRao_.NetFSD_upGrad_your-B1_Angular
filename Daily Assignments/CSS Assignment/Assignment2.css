@@ -1,0 +1,98 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+
+nav {
+    background-color: #004080;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: #ffcc00;
+}
+
+
+#hero {
+    background-color: #e6f2ff;
+    text-align: center;
+    padding: 40px;
+}
+#hero h1 {
+    color: #004080;
+}
+#hero button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #004080;
+    color: white;
+    margin-top: 15px;
+}
+#hero button:hover {
+    background-color: #0066cc;
+}
+
+
+.course-listing {
+    display: flex;              
+    flex-wrap: wrap;            
+    justify-content: center;
+    padding: 20px;
+}
+.course-item {
+    background-color: white;
+    border: 2px solid #004080;  
+    border-radius: 10px;
+    padding: 20px;             
+    margin: 15px;            
+    width: 250px;              
+    transition: transform 0.3s;
+}
+.course-item:hover {
+    transform: scale(1.05);     
+}
+
+
+.course-item > h3 {
+    color: #004080;
+}
+
+
+h3 + p {
+    color: #333;
+    font-size: 14px;
+}
+
+.course-item:first-child {
+    background-color: #f0f8ff;
+}
+.course-item:last-child {
+    background-color: #fff0f5;
+}
+
+#testimonials {
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: center;
+}
+#testimonials h2 {
+    color: #004080;
+    margin-bottom: 15px;
+}
+
+#footer {
+    background-color: #004080;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
