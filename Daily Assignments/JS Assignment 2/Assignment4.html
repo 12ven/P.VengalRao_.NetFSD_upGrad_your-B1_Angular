@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Student Profile Manager</title>
+</head>
+<body>
+    
+    <h1>Dynamic Student Profile Manager</h1>
+
+    
+
+    <button id="updateInfo">Update Info</button>
+    <button id="updateMarks">Update Marks</button>
+
+    <div id="showInfo"></div>
+
+    <script>
+        var student={
+            name:"vengal",
+            rollno:"o180184",
+            marks:"56"
+        };
+
+        function updateStudentProfile(studentObj){
+            var container = document.getElementById('showInfo');
+            container.innerHTML='';
+
+            nameP = document.createElement('p');
+            nameP.textContent = "Name : "+studentObj.name;
+
+            rollnoP = document.createElement('p');
+            rollnoP.textContent = "Roll No : "+studentObj.rollno;
+
+            marksP = document.createElement('p');
+            marksP.textContent = "Marks : "+studentObj.marks;
+
+            container.appendChild(nameP);
+            container.appendChild(rollnoP);
+            container.appendChild(marksP);
+
+        }
+
+        function updateMarks(newMarks){
+            student.marks=newMarks;
+            updateStudentProfile(student);
+        }
+
+        document.getElementById('updateInfo').addEventListener('click',function(){
+            updateStudentProfile(student);
+        });
+
+        document.getElementById('updateMarks').addEventListener('click',function(){
+            updateMarks(75);
+        });
+        
+
+    </script>
+</body>
+</html>

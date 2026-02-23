@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Object-Based User Info Display</title>
+</head>
+<body>
+    <h1>Simple Object-Based User Info Display</h1>
+
+    <button id="btn"> Show user info</button>
+
+    <div id="userInfo"></div>
+
+    <script>
+
+        var user = {name: 'vengal', age:23, city:"ongole"}
+
+        function displayUserInfo(userObj){
+
+            document.getElementById('userInfo').innerHTML='';
+
+            var nameP = document.createElement('p');
+            nameP.textContent = "Name :"+userObj.name;
+
+            var ageP = document.createElement('p');
+            ageP.textContent = "Age :"+userObj.age;
+
+            var cityP = document.createElement('p');
+            cityP.textContent = "Name :"+userObj.city;
+
+            var container = document.getElementById('userInfo');
+            container.appendChild(nameP);
+            container.appendChild(ageP);
+            container.appendChild(cityP);
+
+        }
+
+        document.getElementById('btn').addEventListener('click',function(){
+            displayUserInfo(user);
+        });
+    </script>
+</body>
+</html>
