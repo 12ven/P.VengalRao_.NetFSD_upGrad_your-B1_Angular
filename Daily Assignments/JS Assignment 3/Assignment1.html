@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local Storage Notes</title>
+</head>
+<body>
+    <h1>Personal Notes Saver using LocalStorage</h1>
+    <textarea id="textarea" style="width: 200px; height: 100px;" placeholder="Enter text message"></textarea>
+    <br><br>
+    <button onclick="save()">Save</button>
+    <button onclick="clearNote()">Clear</button>
+
+    <p id="output"></p>
+
+    <script>
+        function save() {
+            let text = document.getElementById('textarea').value;
+            localStorage.setItem('note', text);
+            alert('Note saved');
+            displayNote();
+        }
+
+        function clearNote() {
+            localStorage.removeItem('note');
+            document.getElementById('textarea').value = '';
+            document.getElementById('output').innerText = 'No data found';
+            alert('Note cleared');
+        }
+
+        function displayNote() {
+            let savedNote = localStorage.getItem('note');
+            if (savedNote) {
+                document.getElementById('textarea').value = savedNote;
+                document.getElementById('output').innerText = "Saved Note: " + savedNote;
+            } else {
+                document.getElementById('output').innerText = 'No data found';
+            }
+        }
+
+        // Load note automatically when page refreshes
+        window.onload = displayNote;
+    </script>
+</body>
+</html>

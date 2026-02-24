@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Form Validation</title>
+</head>
+<body>
+    <h1>Registration Form</h1>
+
+    <form>
+        <!-- Name field -->
+        <label for="name">Name:</label>
+        <input type="text" id="name" onchange="validateName()">
+        <span id="nameMsg" style="color:red"></span>
+        <br><br>
+
+        <!-- Email field -->
+        <label for="email">Email:</label>
+        <input type="text" id="email" onchange="validateEmail()">
+        <span id="emailMsg" style="color:red"></span>
+        <br><br>
+
+        <!-- Age field -->
+        <label for="age">Age:</label>
+        <input type="number" id="age" onchange="validateAge()">
+        <span id="ageMsg" style="color:red"></span>
+        <br><br>
+
+        <!-- Save button -->
+        <button type="button" onclick="saveData()">Save</button>
+    </form>
+
+    <p id="output"></p>
+
+    <script>
+        // Validation functions
+        function validateName() {
+            let name = document.getElementById("name").value;
+            if (name.trim() === "") {
+                document.getElementById("nameMsg").innerText = "Name cannot be empty";
+                return false;
+            } else {
+                document.getElementById("nameMsg").innerText = "";
+                return true;
+            }
+        }
+
+        function validateEmail() {
+            let email = document.getElementById("email").value;
+            if (!email.includes("@")) {
+                document.getElementById("emailMsg").innerText = "Email must contain '@'";
+                return false;
+            } else {
+                document.getElementById("emailMsg").innerText = "";
+                return true;
+            }
+        }
+
+        function validateAge() {
+            let age = document.getElementById("age").value;
+            if (age <= 18) {
+                document.getElementById("ageMsg").innerText = "Age must be greater than 18";
+                return false;
+            } else {
+                document.getElementById("ageMsg").innerText = "";
+                return true;
+            }
+        }
+
+        // Save data if all validations pass
+        function saveData() {
+            let validName = validateName();
+            let validEmail = validateEmail();
+            let validAge = validateAge();
+
+            if (validName && validEmail && validAge) {
+                let user = {
+                    name: document.getElementById("name").value,
+                    email: document.getElementById("email").value,
+                    age: document.getElementById("age").value
+                };
+
+                sessionStorage.setItem("user", JSON.stringify(user));
+                document.getElementById("output").innerText = "User data saved in sessionStorage!";
+                alert("Data saved successfully");
+            } else {
+                document.getElementById("output").innerText = "Please fix validation errors before saving.";
+            }
+        }
+    </script>
+</body>
+</html>
