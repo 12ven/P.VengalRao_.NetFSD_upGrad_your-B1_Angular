@@ -1,0 +1,14 @@
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\bin\Debug\net10.0\c#_Class_Assignments_1.exe
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\bin\Debug\net10.0\c#_Class_Assignments_1.deps.json
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\bin\Debug\net10.0\c#_Class_Assignments_1.runtimeconfig.json
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\bin\Debug\net10.0\c#_Class_Assignments_1.dll
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\bin\Debug\net10.0\c#_Class_Assignments_1.pdb
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\c#_Class_Assignments_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\c#_Class_Assignments_1.AssemblyInfoInputs.cache
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\c#_Class_Assignments_1.AssemblyInfo.cs
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\c#_Class_Assignments_1.csproj.CoreCompileInputs.cache
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\c#_Class_Assignments_1.dll
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\refint\c#_Class_Assignments_1.dll
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\c#_Class_Assignments_1.pdb
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\c#_Class_Assignments_1.genruntimeconfig.cache
+C:\Users\venga\Music\Dotnet C#\c#_Class_Assignments_1\obj\Debug\net10.0\ref\c#_Class_Assignments_1.dll
