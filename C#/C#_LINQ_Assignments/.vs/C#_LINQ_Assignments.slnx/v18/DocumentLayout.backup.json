@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\venga\\Music\\Dotnet C#\\C#_LINQ_Assignments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E480806E-6954-4527-9E28-C86CFC0FCA8D}|C#_LINQ_Assignments.csproj|c:\\users\\venga\\music\\dotnet c#\\c#_linq_assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E480806E-6954-4527-9E28-C86CFC0FCA8D}|C#_LINQ_Assignments.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E480806E-6954-4527-9E28-C86CFC0FCA8D}|C#_LINQ_Assignments.csproj|c:\\users\\venga\\music\\dotnet c#\\c#_linq_assignments\\assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E480806E-6954-4527-9E28-C86CFC0FCA8D}|C#_LINQ_Assignments.csproj|solutionrelative:assignment1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\venga\\Music\\Dotnet C#\\C#_LINQ_Assignments\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\venga\\Music\\Dotnet C#\\C#_LINQ_Assignments\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Assignment1.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Dotnet C#\\C#_LINQ_Assignments\\Assignment1.cs",
+              "RelativeDocumentMoniker": "Assignment1.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Dotnet C#\\C#_LINQ_Assignments\\Assignment1.cs",
+              "RelativeToolTip": "Assignment1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswAcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T11:17:17.511Z",
               "EditorCaption": ""
