@@ -1,0 +1,14 @@
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\bin\Debug\net10.0\C#_FileHandling_Assignments.exe
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\bin\Debug\net10.0\C#_FileHandling_Assignments.deps.json
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\bin\Debug\net10.0\C#_FileHandling_Assignments.runtimeconfig.json
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\bin\Debug\net10.0\C#_FileHandling_Assignments.dll
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\bin\Debug\net10.0\C#_FileHandling_Assignments.pdb
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\C#_FileHandling_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\C#_FileHandling_Assignments.AssemblyInfoInputs.cache
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\C#_FileHandling_Assignments.AssemblyInfo.cs
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\C#_FileHandling_Assignments.csproj.CoreCompileInputs.cache
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\C#_FileHandling_Assignments.dll
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\refint\C#_FileHandling_Assignments.dll
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\C#_FileHandling_Assignments.pdb
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\C#_FileHandling_Assignments.genruntimeconfig.cache
+C:\Users\venga\Music\Dotnet C#\C#_FileHandling_Assignments\obj\Debug\net10.0\ref\C#_FileHandling_Assignments.dll

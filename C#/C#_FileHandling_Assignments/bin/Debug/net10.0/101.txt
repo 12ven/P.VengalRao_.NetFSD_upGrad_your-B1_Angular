@@ -1,0 +1,6 @@
+Student Name: vengal
+Roll Number: 101
+Marks: 89, 87, 47
+Total: 223
+Average: 74.33
+Grade: B

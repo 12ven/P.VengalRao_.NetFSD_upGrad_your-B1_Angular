@@ -1,0 +1,14 @@
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\bin\Debug\net10.0\C#_MultiThreading_Assignments.exe
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\bin\Debug\net10.0\C#_MultiThreading_Assignments.deps.json
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\bin\Debug\net10.0\C#_MultiThreading_Assignments.runtimeconfig.json
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\bin\Debug\net10.0\C#_MultiThreading_Assignments.dll
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\bin\Debug\net10.0\C#_MultiThreading_Assignments.pdb
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\C#_MultiThreading_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\C#_MultiThreading_Assignments.AssemblyInfoInputs.cache
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\C#_MultiThreading_Assignments.AssemblyInfo.cs
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\C#_MultiThreading_Assignments.csproj.CoreCompileInputs.cache
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\C#_MultiThreading_Assignments.dll
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\refint\C#_MultiThreading_Assignments.dll
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\C#_MultiThreading_Assignments.pdb
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\C#_MultiThreading_Assignments.genruntimeconfig.cache
+C:\Users\venga\Music\Dotnet C#\C#_MultiThreading_Assignments\obj\Debug\net10.0\ref\C#_MultiThreading_Assignments.dll
