@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "FlightServices\\FlightServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BookingServices\\BookingServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PassengerServices\\PassengerServices.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FlightGateway\\FlightGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
