@@ -1,0 +1,99 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5007"
+  },
+
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/flights",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/api/Flight",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5192
+
+        }
+      ]
+
+    },
+
+    {
+      "UpstreamPathTemplate": "/gateway/flights/{pattern}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/api/Flight/{pattern}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5192
+
+        }
+      ]
+
+    },
+
+
+    {
+      "UpstreamPathTemplate": "/gateway/bookings",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/api/Booking",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5003
+        }
+      ]
+
+    },
+
+    {
+      "UpstreamPathTemplate": "/gateway/bookings/{pattern}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/api/Booking/{pattern}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5003
+        }
+      ]
+
+    },
+
+
+
+
+    {
+      "UpstreamPathTemplate": "/gateway/passengers",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/api/Passenger",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5045
+
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/passengers/{pattern}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "DownstreamPathTemplate": "/api/Passenger/{pattern}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5045
+
+        }
+      ]
+    }
+
+
+  ]
+
+}

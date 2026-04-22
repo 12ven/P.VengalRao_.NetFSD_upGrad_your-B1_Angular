@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "FlightServices.Controllers.FlightController",
+    "Method": "CreateFlightServiceAsync",
+    "RelativePath": "api/Flight/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "Flight.FlightServices.Dtos.CreateFlightServiceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FlightServices.Controllers.FlightController",
+    "Method": "GetFlightServicesAsync",
+    "RelativePath": "api/Flight/GetFlightServices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FlightServices.Controllers.FlightController",
+    "Method": "GetFlightServiceByIdAsync",
+    "RelativePath": "api/Flight/Search/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FlightServiceId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

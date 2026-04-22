@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\FlightServices.csproj|solutionrelative:flightservices\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\services\\flightservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\services\\flightservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\services\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\services\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\repositites\\flightservicerepositity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\repositites\\flightservicerepositity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\repositites\\iflightservicerepositity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\repositites\\iflightservicerepositity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\dtos\\readflightservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\dtos\\readflightservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\profiles\\flightserviceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\profiles\\flightserviceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\dtos\\createflightservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\dtos\\createflightservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\entitity\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\entitity\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightservices\\data\\flightservicesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A0F8D9C-4195-1733-126D-580A2B408DFA}|FlightServices\\Flight.FlightServices.csproj|solutionrelative:flightservices\\data\\flightservicesdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A093A553-886E-62B5-8929-E1EC01D2C66A}|FlightGateway\\FlightGateway.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\flightgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A093A553-886E-62B5-8929-E1EC01D2C66A}|FlightGateway\\FlightGateway.csproj|solutionrelative:flightgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199139E3-9A5A-C54A-AB2D-55FE558A919C}|PassengerServices\\PassengerServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\passengerservices\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199139E3-9A5A-C54A-AB2D-55FE558A919C}|PassengerServices\\PassengerServices.csproj|solutionrelative:passengerservices\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339AA85-5777-8762-FF54-14CECFCA5398}|BookingServices\\BookingServices.csproj|c:\\users\\venga\\music\\daily assignments\\microservices\\flightmanagement system automapper\\bookingservices\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339AA85-5777-8762-FF54-14CECFCA5398}|BookingServices\\BookingServices.csproj|solutionrelative:bookingservices\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FlightServiceProfile.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Profiles\\FlightServiceProfile.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Profiles\\FlightServiceProfile.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Profiles\\FlightServiceProfile.cs",
+              "RelativeToolTip": "FlightServices\\Profiles\\FlightServiceProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:47:36.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadFlightServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Dtos\\ReadFlightServiceDto.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Dtos\\ReadFlightServiceDto.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Dtos\\ReadFlightServiceDto.cs",
+              "RelativeToolTip": "FlightServices\\Dtos\\ReadFlightServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:45:40.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateFlightServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Dtos\\CreateFlightServiceDto.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Dtos\\CreateFlightServiceDto.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Dtos\\CreateFlightServiceDto.cs",
+              "RelativeToolTip": "FlightServices\\Dtos\\CreateFlightServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:44:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightServices.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Services\\FlightServices.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Services\\FlightServices.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Services\\FlightServices.cs",
+              "RelativeToolTip": "FlightServices\\Services\\FlightServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:41:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Services\\IFlightService.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Services\\IFlightService.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Services\\IFlightService.cs",
+              "RelativeToolTip": "FlightServices\\Services\\IFlightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:40:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightServiceRepositity.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Repositites\\FlightServiceRepositity.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Repositites\\FlightServiceRepositity.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Repositites\\FlightServiceRepositity.cs",
+              "RelativeToolTip": "FlightServices\\Repositites\\FlightServiceRepositity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:32:30.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFlightServiceRepositity.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Repositites\\IFlightServiceRepositity.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Repositites\\IFlightServiceRepositity.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Repositites\\IFlightServiceRepositity.cs",
+              "RelativeToolTip": "FlightServices\\Repositites\\IFlightServiceRepositity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:28:12.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Program.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Program.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Program.cs",
+              "RelativeToolTip": "FlightServices\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:20:08.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlightServicesDb.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Data\\FlightServicesDb.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Data\\FlightServicesDb.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Data\\FlightServicesDb.cs",
+              "RelativeToolTip": "FlightServices\\Data\\FlightServicesDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:12:29.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Entitity\\FlightService.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Entitity\\FlightService.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Entitity\\FlightService.cs",
+              "RelativeToolTip": "FlightServices\\Entitity\\FlightService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:11:02.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightGateway\\Program.cs",
+              "RelativeDocumentMoniker": "FlightGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightGateway\\Program.cs",
+              "RelativeToolTip": "FlightGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:43:30.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\PassengerServices\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "PassengerServices\\Controllers\\PassengerController.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\PassengerServices\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "PassengerServices\\Controllers\\PassengerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:18:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\BookingServices\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "BookingServices\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\BookingServices\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "BookingServices\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:13:47.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "FlightServices\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\venga\\Music\\Daily Assignments\\Microservices\\FlightManagement System Automapper\\FlightServices\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "FlightServices\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T09:56:54.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -50,8 +50,7 @@
               "RelativeToolTip": "BookingServices\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-15T12:27:19.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T12:27:19.488Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "FlightGateway\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-15T12:21:52.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T12:21:52.316Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "FlightGateway\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:43:30.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:43:30.871Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "PassengerServices\\Controllers\\PassengerController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:18:16.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:18:16.664Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "BookingServices\\Controllers\\BookingController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:13:47.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:13:47.882Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "FlightServices\\Controllers\\FlightController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwBoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T09:56:54.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T09:56:54.05Z"
             }
           ]
         }
